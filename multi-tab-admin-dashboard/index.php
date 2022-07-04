@@ -105,7 +105,7 @@
       <div style="float:right;">
         <label class="search neu">
           <i class='bi bi-search icon-small'></i>
-          <input type="search" placeholder="Search..." class="text-color">
+          <input type="search" placeholder="Search..." class="text-color" />
         </label>
         <i class="bi bi-bell-fill neu bst-circle bst-padding-small"></i>
         <i class="bi bi-globe neu bst-circle bst-padding-small"></i><i>&nbsp;</i>
